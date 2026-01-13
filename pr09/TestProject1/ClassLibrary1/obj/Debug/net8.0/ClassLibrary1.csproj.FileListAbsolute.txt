@@ -1,0 +1,11 @@
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+C:\грач\01.02\pr09\TestProject1\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
